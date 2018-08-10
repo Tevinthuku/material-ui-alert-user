@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/paper/PaperSheet.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-motion": "0.5.2"
+  },
+  "keywords": [],
+  "name": "alert-user-on-where-to-edit"
+}
