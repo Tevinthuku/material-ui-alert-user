@@ -27,7 +27,8 @@ function PaperSheet(props) {
             style={{
               width: `${value.x}%`,
               height: 3,
-              background: "teal"
+              background: value.x > 98 ? "transparent" : "teal",
+              transition: "background 1000ms linear"
             }}
           />
           <Paper className={classes.root} elevation={0}>
@@ -37,7 +38,8 @@ function PaperSheet(props) {
             style={{
               width: `${value.x}%`,
               height: 3,
-              background: "teal"
+              background: value.x > 98 ? "transparent" : "teal",
+              transition: "background 1000ms linear"
             }}
           />
         </div>
