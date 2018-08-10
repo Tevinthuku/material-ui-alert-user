@@ -9,7 +9,7 @@
     "react-motion": "0.5.2"
   },
   "keywords": [],
-  "name": "alert-user-on-where-to-edit",
+  "name": "material-ui-alert-component",
   "version": "0.0.0",
   "devDependencies": {
     "react-scripts": "1.0.0"
